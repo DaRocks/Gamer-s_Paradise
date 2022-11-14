@@ -72,11 +72,6 @@ p{
     color:var(--bg-danger);
 }
 
-/* hamburger menu alignment */
-#header .navbar-toggler-icon{
-    width:unset;
-    height:unset;
-}
 
 #header .navbar-toggler:focus{
     box-shadow: none;
